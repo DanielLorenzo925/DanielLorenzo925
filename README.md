@@ -5,8 +5,6 @@
 
 - 🔭 I currently work at **Optsol Tecnologia**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **react, typescript, next.js....**
 
 - 📫 How to reach me **daniel.lorenzo925@hotmail.com**
